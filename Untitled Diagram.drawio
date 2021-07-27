@@ -1,1 +1,186 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T19:04:45.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.2" etag="AgnSgCFKNxE0tSViSzAw" type="github"><diagram id="ZSqCcFlzkBgrGwSoP7ri">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-27T19:35:42.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="TLz7IfGo78bzrGa3Xv-Q" version="14.9.2" type="github">
+  <diagram id="ZSqCcFlzkBgrGwSoP7ri" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="spb9tm-bex__5_-dbvGU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-3" value="Nowy gracz serwera mc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-4" value="Zaloguj sie lub zarejestruj" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="50" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-6" value="Zarejestruj sie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="350" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-9" value="LOGOWANIE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-14" value="token:&amp;lt;token&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="140" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-15" value="Strona" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-16" value="Aby sie zalogowac wejdz na strone i wpisz token&lt;br&gt;i zaloguj sie na konto" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-17" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=none;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-15" target="spb9tm-bex__5_-dbvGU-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="100" as="sourcePoint" />
+            <mxPoint x="540" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-19" value="Strona logowania" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-21" value="Zaloguj sie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="129" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-23" value="Wpisz token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="555" y="105" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-24" value="Dalej" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="565" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-26" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=none;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-24" target="spb9tm-bex__5_-dbvGU-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="300" as="sourcePoint" />
+            <mxPoint x="470" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-27" value="sprawdzanie tokenu" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-28" value="Dobry token" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="325" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-29" value="Zly token" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="325" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-32" value="Zaloguj sie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="479" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-34" value="Wpisz token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="555" y="455" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-35" value="Dalej" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="565" y="561" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-36" value="Zly token, sprawdz token i sprobuj ponownie" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="430" y="519" width="380" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-38" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.521;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-29" target="spb9tm-bex__5_-dbvGU-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="470" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-39" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=none;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="650" />
+              <mxPoint x="410" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-40" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=none;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-28" target="spb9tm-bex__5_-dbvGU-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="325" />
+              <mxPoint x="420" y="320" />
+              <mxPoint x="420" y="290" />
+              <mxPoint x="380" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-42" value="Zalogowano,&lt;br&gt;mozesz teraz wrocic do minecraft!&lt;br&gt;Mozesz zamknac to okno lub karte!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="41" y="300" width="360" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="620" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-44" value="Gracz mc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-47" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="70" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-48" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-50" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-51" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-52" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="310" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-54" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=19;strokeWidth=7;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-55" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=none;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-42" target="spb9tm-bex__5_-dbvGU-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="670" as="sourcePoint" />
+            <mxPoint x="470" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="840" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-58" value="Rejestracja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="790" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="spb9tm-bex__5_-dbvGU-59" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=19;fillColor=#dae8fc;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#6c8ebf;" edge="1" parent="1" source="spb9tm-bex__5_-dbvGU-6" target="spb9tm-bex__5_-dbvGU-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="230" as="sourcePoint" />
+            <mxPoint x="470" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="228" />
+              <mxPoint x="10" y="895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
